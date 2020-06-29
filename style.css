@@ -10,4 +10,9 @@ html {
 body {
     font-family: 'Oxygen', sans-serif;
     font-family: 'Play', sans-serif;  
+    background-image: url("https://i.postimg.cc/TwbLZnwd/money.jpg");
+background-size: cover;
+background-position: center;
+
+
 }

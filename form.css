@@ -2,6 +2,7 @@
     text-align: center;
     background-image: url(https://i.postimg.cc/DyK5ww5D/holger-link-KCf3n0-CLAtg-unsplash.jpg);
     background-position: cover;
+    box-shadow: black 10px 10px 10px;
     padding: 100px 50px 50px 50px;
     max-width: 600px;
 }
