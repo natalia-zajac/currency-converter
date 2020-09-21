@@ -3,8 +3,16 @@
 ## Demo
 https://natalia-zajac.github.io/currency-converter/
 
-## Opis
-Kalkulator walutowy to proste narzędzie, dzięki któremu można w łatwy sposób przeliczyć kurs waluty PLN na EUR/GBP/USD/CHF.
+## Description
+The currency calculator is a simple tool that allows you to easily convert the PLN / EUR / GBP / USD / CHF exchange rate.
+
+## Use technologies
+ - HTML
+ - CSS
+ - JavaScript
+ - BEM convencion
+ 
+## Previous
 
 ![Kalkulator walutowy](image/currency-converter.png)
 
