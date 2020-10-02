@@ -12,7 +12,7 @@ The currency calculator is a simple tool that allows you to easily convert the P
  - JavaScript
  - BEM convencion
  
-## Previous
+## Preview
 
 ![Kalkulator walutowy](image/currency-converter.png)
 
